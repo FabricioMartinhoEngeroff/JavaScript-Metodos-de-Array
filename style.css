@@ -158,3 +158,16 @@ body {
   font-weight: 500;
   line-height: 24px;
 }
+.btn-recomendados {
+  background-image: url('/imagens/icon_esgotados.png');
+  background-repeat: no-repeat;
+  background-position: left center; /* Posiciona a imagem à esquerda do texto */
+  padding-left: 40px; /* Adiciona espaço para o texto não ficar em cima da imagem */
+}
+
+.btn-mais-vendidos {
+  background-image: url('/imagens/icon_mais_barato.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 40px;
+}
